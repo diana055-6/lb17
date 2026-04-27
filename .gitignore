@@ -2,20 +2,14 @@
 .DS_Store
 Thumbs.db
 
-# Временные файлы
-*.tmp
-*.temp
-*~
-
-# Логи
+# Логи и кэш
 *.log
+cache/
 
-# Конфиденциальные / личные файлы
-config.php
+# Конфиги с паролями
+config.local.php
 .env
-kluch
-kluch.pub
 
-# Папки зависимостей (если появятся)
-vendor/
-node_modules/
+# Зависимости
+/vendor/
+composer.lock
