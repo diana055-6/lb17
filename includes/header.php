@@ -5,8 +5,8 @@ $menuItems = [
     'Контакты' => '/pages/contact.php'
 ];
 ?>
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/assets/images/i.png" type="image/png">
+<link rel="shortcut icon" href="/assets/images/i.png" type="image/x-icon">
 <header>
     <nav>
         <ul>
