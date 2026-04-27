@@ -1,0 +1,21 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.temp
+*~
+
+# Логи
+*.log
+
+# Конфиденциальные / личные файлы
+config.php
+.env
+kluch
+kluch.pub
+
+# Папки зависимостей (если появятся)
+vendor/
+node_modules/
